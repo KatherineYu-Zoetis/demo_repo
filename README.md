@@ -1,2 +1,2 @@
-# deo_repo
+# demo_repo
 For testing purposes.
